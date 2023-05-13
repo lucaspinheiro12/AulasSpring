@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.lucas.jogos.dto.GameMinDTO;
-import com.lucas.jogos.intities.Game;
+import com.lucas.jogos.entities.Game;
 import com.lucas.jogos.repositories.GameRepository;
 
 @Service

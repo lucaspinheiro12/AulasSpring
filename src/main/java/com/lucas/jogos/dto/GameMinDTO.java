@@ -1,6 +1,6 @@
 package com.lucas.jogos.dto;
 
-import com.lucas.jogos.intities.Game;
+import com.lucas.jogos.entities.Game;
 
 public class GameMinDTO {
     private Long id;

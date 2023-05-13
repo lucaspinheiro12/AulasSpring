@@ -1,4 +1,4 @@
-package com.lucas.jogos.intities;
+package com.lucas.jogos.entities;
 
 import java.util.Objects;
 
